@@ -1,6 +1,6 @@
 # Rest App
 
-Simple cross-platform app build in Ionic using cordova for keeping track of the time for an excercise at gym.
+Simple cross-platform app build in Ionic using cordova for keeping track of the time for exercises at gym.
 
 ### Available Scripts
 
